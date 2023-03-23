@@ -1,6 +1,6 @@
 #include "mahin.h"
 /**
- * mul -multiply 2 integers
+ * mul - multiply 2 integers
  * @a: first integer
  * @b: second integer
  * Return: addition of the multiplication
